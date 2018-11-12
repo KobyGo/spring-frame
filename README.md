@@ -1,5 +1,5 @@
-# maven-prj-default
-maven 프로젝트 jdk1.8 spring5.0 기본틀 [공부용]
+# Spring-Frame
+프로젝트 jdk1.8 spring5.0 기본틀 [공부용]
 
 ### 환경
 JDK 1.8<br />
