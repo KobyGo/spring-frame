@@ -6,5 +6,5 @@ import com.newlecture.web.entity.Member;
 
 public interface ViewManagementService {
 	public List<Member> getMemberList();
-	public int addMember(Member ember);
+	public int addMember(Member member);
 }
