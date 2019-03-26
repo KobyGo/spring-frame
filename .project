@@ -2,7 +2,7 @@
 <projectDescription>
 	<name>maven-prj-default-master</name>
 	<comment></comment>
-	<projects>
+	<projects> 
 	</projects>
 	<buildSpec>
 		<buildCommand>
